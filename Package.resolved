@@ -19,20 +19,11 @@
       }
     },
     {
-      "identity" : "wg-go-apple",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/passepartoutvpn/wg-go-apple",
-      "state" : {
-        "revision" : "691a702cd4a1d2b5acd409040741ec123c87cf2c",
-        "version" : "0.0.20250216"
-      }
-    },
-    {
       "identity" : "wireguard-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/passepartoutvpn/wireguard-apple",
+      "location" : "https://github.com/fliosan/wireguard-apple",
       "state" : {
-        "revision" : "d8bcdf22f1e75d80caac874f302dee86194bb71d"
+        "revision" : "e40cc4f942d20b3f8a7c9ef1c426f09b424adbce"
       }
     }
   ],
